@@ -1,4 +1,4 @@
-# Basic Banking System⚡️ 
+Basic Banking System⚡️ 
 > A clean, beautiful, responsive Basic Banking system Website for Web Developers!
 
 To view a live example https://faheemahemad25.github.io/Basic-Banking-System/index.html
