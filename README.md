@@ -10,7 +10,7 @@ To view a live example https://faheemahemad25.github.io/Basic-Banking-System/ind
 ⚡️ Fully Responsive\
 ⚡️Transfer(Send) Money to Customers\
 ⚡️ After Sent Money will be Debit\
-⚡️ See Trnasactions History\
+⚡️ See Trnasactions History
 
 
 ## Sections 📚
