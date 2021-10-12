@@ -4,15 +4,6 @@
 To view a live example, **[click here](https://faheemahemad25.github.io/Basic-Banking-System/index.html)
 
 
-
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://faheemahemad25.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
-
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
