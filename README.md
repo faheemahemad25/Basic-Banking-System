@@ -8,7 +8,7 @@ To view a live example https://faheemahemad25.github.io/Basic-Banking-System/ind
 
 ## Features 📋
 ⚡️ Fully Responsive\
-⚡️ Sent Money to Customers\
+⚡️Transfer(Send) Money to Customers\
 ⚡️ After Sent Money will be Debit\
 ⚡️ See Trnasactions History\
 
@@ -20,6 +20,6 @@ To view a live example https://faheemahemad25.github.io/Basic-Banking-System/ind
 ✔️ Transaction\
 
 ## Tools Used 🛠️
-*  HTML%
-*   CSS3
+*  HTML
+*  CSS3
 *  JavaScript
