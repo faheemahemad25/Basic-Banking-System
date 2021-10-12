@@ -1,7 +1,7 @@
 # Basic Banking System⚡️ 
 > A clean, beautiful, responsive Basic Banking system Website for Web Developers!
 
-This is the Task/Project 1 "Basic Banking system" Website for transfer money to customer by bank(Manager). i developed this website under The Spark Foundation #GRIPMAY21 Program/Internship.
+This is the Task/Project 1 "Basic Banking system" Website for transfer money to customer by bank(Manager). i developed this website under The Spark Foundation #GRIPOCT21 Program/Internship.
 
 To view a live example https://faheemahemad25.github.io/Basic-Banking-System/index.html
 
