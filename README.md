@@ -1,7 +1,7 @@
 # Basic Banking System⚡️ 
 > A clean, beautiful, responsive Basic Banking system Website for Web Developers!
 
-> https://faheemahemad25.github.io/Basic-Banking-System/index.html
+To view a live example, **[click here](https://faheemahemad25.github.io/Basic-Banking-System/index.html)
 
 
 
@@ -18,20 +18,15 @@
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Sent Money to Customers\
-⚡️ After Sent Money will be Debit
-⚡️ See Trnasactions History
+⚡️ After Sent Money will be Debit\
+⚡️ See Trnasactions History\
 
 
 ## Sections 📚
 ✔️ Home\
 ✔️ Customer List\
 ✔️ Send Money \
-✔️ Transaction
-
-
-
-
-To view a live example, **[click here](https://faheemahemad25.github.io/Basic-Banking-System/index.html)**
+✔️ Transaction\
 
 ## Tools Used 🛠️
 *  HTML%
