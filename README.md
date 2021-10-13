@@ -24,3 +24,22 @@ To view a live example https://faheemahemad25.github.io/Basic-Banking-System/ind
 *  HTML
 *  CSS3
 *  JavaScript
+
+## Contributor 🤝
+### Faheem Ahemad
+
+<p align="left">
+<img src = "https://avatars.githubusercontent.com/u/77126903?v=4"  height="180" width="120" alt="">
+</p>
+<p align="left">
+  <a href ="https://www.linkedin.com/in/faheem-ahemad25/">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36"/>
+</a>
+<a href = "https://github.com/faheemahemad25">
+  <img src = "https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="36" height = "36"/>
+</a>
+
+</p>
+
+
+[Back To The Top](https://faheemahemad25.github.io/Basic-Banking-System/index.html)
