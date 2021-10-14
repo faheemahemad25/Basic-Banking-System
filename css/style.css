@@ -5,7 +5,13 @@ html{
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #f0c551;
+    /* background-color: #5fdfeb; */
+        background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIHDg0PBw0RERAPDQ4PDQ8TDg8REQ8NFRIWFhUREx8YHSggGBolHRUVITEhJSkrLi4uGB8zODMsNygtLi4BCgoKDg0NFQ8QGC0lHR4rLS0rLS0tLS0tLjctLSsrKystLSsrNystNy03NystNys3Ky0rLS0rNys3LSsrKysrK//AABEIALcBEwMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAAAQMCBAb/xAArEAEAAQIEBQIGAwAAAAAAAAAAAQIRAyExMlFxgaHwQbESQpHB0eEiUmH/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBQT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARESAv/aAAwDAQACEQMRAD8A+8AfW8YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABKq4p3SCqxnGvsjrLiZmrdPTSBrmtqsSKdZ6RmznGmdsW5uIi2ii8wvPrVP1AGnoAHIAAAAAAAAAAAAAAAABQQAAAAcVY0RpnyZziTOmXeRcreZ+HVnONHyxftDK3HMGuVmuatZtySIsoNAAAAAAPQAOQAAAAAAAAXJTz3/ACKpdINfJDFEL+/3sGLcT9es8ZL5ecAxbl9ennnBzXVFOs+XhnONfZHDUWRt57/r6OasWKfXpGbCZmrdPD/EjzVGuNaVY0zti3NxP8t03I81+xe2qrmCgAAAAAAAAAAD0ADkAAAAAAAAAAFhxVjRGmfIV3ZJtTqxqxJnTLvLm3HPmLy0nGj5Yv2hxNU1azbkijUkiRFhQVBQEsWuoAAAAAAAAAAAAD0ADkAAAAAlVcU7pBRlONfZHWXEzNW6emkDU81tViRT69IzZzizO2Lc83ERbRReYkx8W6big0AAAAAAAAAAAAAAAAAAAAAA9AA5A4qxojTPkznEmdMu8i5W8z8O6bM5xv6xftDK3FRrkmuatZtySIsoNAAAAAAAAAAAAAAAAAAAAAAAAAAAAOpxZnbFueric903UEkxFAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//9k=");
+        background-size: cover;
+        background-position: top center;
+        position: relative;
+        z-index: 1;
+
 }
 
 /* splash screen css starts here  */
@@ -19,9 +25,10 @@ body{
 /* splash screen css ends here  */
 
 /* navbar css starts here  */
-/* .bg-light{
-    background-color: #FAFAD2!important;
-} */
+.bg-light{
+    background-color:#035e66!important;
+    
+}
 #banklogo{
 width: 5%;
 height: 5%;
@@ -30,11 +37,11 @@ height: 5%;
 .navbar-brand{
     
     font-size: 1.5rem;
-    color: #5f6368!important;
+    color: white!important;
 }
 
 .nav-link{
-    color: #5f6368!important;
+    color: white!important;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
@@ -46,7 +53,7 @@ height: 5%;
 /* here content css starts here  */
 .hero-content{
     height: 100vh;
-    background-color:#263d5a; 
+    /* background-color:#035e66;  */
     color: #ffffff;
     padding: 3rem;
     border-top-right-radius: 90%;
@@ -71,7 +78,7 @@ height: 5%;
     padding: 1rem 2rem;
     font-size: 162%;
     background-color: #fff;
-    color: #039be5!important;
+    color: #035e66!important;
     transition: 0.3s;
 }
 
@@ -85,7 +92,7 @@ height: 5%;
 /* get-started-buttons css starts here*/
 .get-started-content{
     height: 60vh;
-    background-color: #ff8a65;
+    background-color: #035e66
     border-top-left-radius: 42rem;
     border-top-right-radius: 42rem;
     border-bottom-right-radius: 42rem;
@@ -100,20 +107,21 @@ height: 5%;
     border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 162%;
-    background-color: #039be5;
+    background-color: #035e66;
     color: #fff!important;
     transition: 0.3s;
 }
 
 .get-started-content a:hover{
-    background-color: #017ab6;
+    background-color: #035e66;
     text-decoration: none;
 }
 /* get-started-buttons css end here*/
 
 /* footer css starts here */
 footer{
-    background-color:  white;
+    background-color:  whitesmoke;
+    
 }
 
 .social-icons li{
