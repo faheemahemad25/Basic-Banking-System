@@ -73,14 +73,14 @@ height: 5%;
     border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 162%;
-    background-color: #fff;
-    color: #035e66!important;
+    background-color: #035e66;
+    color: white!important;
     transition: 0.3s;
 }
 
 .get-started:hover{
     text-decoration: none;
-    background-color: #bfdff0;
+    background-color: #252727;
     
 }
 /* here content css starts here  */
@@ -88,8 +88,8 @@ height: 5%;
 /* get-started-buttons css starts here*/
 .get-started-content{
     height: 60vh;
-    background-color: #035e66
-    
+    background-color: #d9e1e2;
+   
 }
 
 .get-started-content .row{
@@ -100,7 +100,7 @@ height: 5%;
     border-radius: 0.5rem;
     padding: 1rem 2rem;
     font-size: 162%;
-    background-color:#035e66;
+    background-color: white;
     color: #fff!important;
     transition: 0.3s;
 }
